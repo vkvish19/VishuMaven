@@ -1,0 +1,37 @@
+<CSPResult>
+    <DeviceID>b7b3b6cd66c37349a03d187bf0740c77</DeviceID>
+    <Type>Windows_MDM_GeoLocation_QT</Type>
+    <ServerOptions></ServerOptions>
+    <Results>
+        <Result>
+            <Status>True</Status>
+            <Message></Message>
+            <Value>12.975</Value>
+            <Name>Latitude</Name>
+        </Result>
+        <Result>
+            <Status>True</Status>
+            <Message></Message>
+            <Value>77.6633</Value>
+            <Name>Longitude</Name>
+        </Result>
+        <Result>
+            <Status>True</Status>
+            <Message></Message>
+            <Value>0</Value>
+            <Name>Altitude</Name>
+        </Result>
+        <Result>
+            <Status>True</Status>
+            <Message></Message>
+            <Value>0</Value>
+            <Name>altitudeAccuracy</Name>
+        </Result>
+        <Result>
+            <Status>True</Status>
+            <Message></Message>
+            <Value>12564</Value>
+            <Name>accuracy</Name>
+        </Result>
+    </Results>
+</CSPResult>
